@@ -4,7 +4,7 @@ Proyecto académico
 1. [Informacion general](#informacion-general)
 2. [Info técnica](#info-técnica)
 3. [Contenidos](#contenidos)
-4. [Integrantes](#integrantes)
+4. [Integrantes](#integrantes) 
 
 
 # Informacion general :

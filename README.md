@@ -24,15 +24,17 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
 
   BBDDs Y CONSULTAS BÁSICAS:
   Ejercicios básicos para aprender las nociones de:
-             - Uso y creación de una bbdd.
-             - Alteración de una bbdd.
-             - Inserción de datos a una bbdd.
-             - Consultas básicas a una bbdd.
+  
+  - Uso y creación de una bbdd.
+  - Alteración de una bbdd.
+  - Inserción de datos a una bbdd.
+  - Consultas básicas a una bbdd.
                 
   CONSULTAS AVANZADAS:
-             - Conultas avanzadas haciendo uso de funciones agregadas.
-             - Consultas avanzadas a múltiples tablas.
-             - Consultas haciendo uso de CTEs.
+  
+  - Conultas avanzadas haciendo uso de funciones agregadas.
+  - Consultas avanzadas a múltiples tablas.
+  - Consultas haciendo uso de CTEs.
   
   
   # Integrantes :

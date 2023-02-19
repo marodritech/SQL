@@ -40,11 +40,11 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
   
   Pareja de pair programming en BBDDs y CONSULTAS BÁSICAS:
   
-  *[Mª Dolores Rubio](https://github.com/Lolaru26)
+  *[Lola Rubio](https://github.com/Lolaru26)
   
   Pareja de pair programming en CONSULTAS AVANZADAS:
   
-  *[Marta Nuñez](https://github.com/Marta-BDA)
+  *[Marta N.](https://github.com/Marta-BDA)
   
   
       

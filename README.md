@@ -16,8 +16,10 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
 # Info técnica :
 *** 
 
-- Lenguaje MYSQL
-- Programa MYSQL WORKBENCH
+- Lenguaje:
+  -  MYSQL
+- Programa:
+  -  MYSQL WORKBENCH
 
 # Contenidos :
 ***
